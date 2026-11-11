@@ -7,7 +7,7 @@ smoothness : smooth
 glow : glowv
 color tone : tonev
 texture : text
-texture : screenv
+texture : screenv.
 
 
 
